@@ -2,4 +2,3 @@
 - 👀 I’m interested in anything web dev related!
 - 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 You can reach me via email: mica.phan@gmail.com
