@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Mica! Nice to meet you.
-- 👀 I’m interested in anything web dev related!
-- 🌱 I’m currently learning backend development.
-- 💞️ I’m looking to collaborate on anything!
